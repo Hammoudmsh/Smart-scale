@@ -1,0 +1,24 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images/apple_red.jpg</file>
+    <file>images/banana.png</file>
+    <file>images/Cucumber.jpg</file>
+    <file>images/kivi.jpg</file>
+    <file>images/onion.jpg</file>
+    <file>images/orange.jpg</file>
+    <file>images/tomato.jpeg</file>
+    <file>images/BG.jpg</file>
+    <file>images/video1.jpg</file>
+    <file>images/video.jpg</file>
+    <file>images/videoStart.jpg</file>
+    <file>images/videoStop.jpg</file>
+    <file>images/logout ‫‬.svg</file>
+    <file>images/logout.svg</file>
+    <file>images/refresh.jpg</file>
+    <file>images/exit.jpg</file>
+    <file>images/off.jpg</file>
+    <file>images/on.jpg</file>
+    <file>images/refresh.jpg</file>
+    <file>images/exit.jpg</file>
+  </qresource>
+</RCC>
